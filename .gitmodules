@@ -1,0 +1,3 @@
+[submodule "Minor_Project"]
+	path = Minor_Project
+	url = git@github.com:Trident09/net-sec-ai-MP.git
