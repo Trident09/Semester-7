@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_purple">#673AB7</color>
+    <color name="lavender">#E1BEE7</color>
+    <color name="royal_blue">#3F51B5</color>
+    <color name="sky_blue">#81D4FA</color>
+    <color name="indigo">#5C6BC0</color>
+    <color name="periwinkle">#9FA8DA</color>
+    <color name="violet">#8E24AA</color>
+    <color name="teal">#80CBC4</color>
+    <color name="midnight_blue">#283593</color>
+    <color name="soft_pink">#F8BBD0</color>
+    <color name="Black">#000000</color>
+</resources>
