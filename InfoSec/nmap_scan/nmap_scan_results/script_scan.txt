@@ -1,0 +1,10 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2024-12-13 09:51 IST
+Nmap scan report for 192.168.1.19
+Host is up (0.000016s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+|_irc-info: Unable to open connection
+
+Nmap done: 1 IP address (1 host up) scanned in 28.36 seconds

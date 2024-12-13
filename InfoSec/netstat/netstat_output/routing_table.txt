@@ -1,0 +1,85 @@
+Routing tables
+
+Internet:
+Destination        Gateway            Flags               Netif Expire
+default            192.168.75.151     UGScg                 en0       
+default            link#27            UCSIg               utun4       
+127                localhost          UCS                   lo0       
+localhost          localhost          UH                    lo0       
+169.254            link#14            UCS                   en0      !
+169.254.169.254    link#14            UHLSW                 en0      !
+192.0.2.42         192.0.2.42         UH                  utun4       
+192.168.75         link#14            UCS                   en0      !
+192.168.75.132     8a:5e:e9:21:7e:14  UHLWI                 en0    992
+192.168.75.151/32  link#14            UCS                   en0      !
+192.168.75.151     c2:d:f4:11:75:30   UHLWIir               en0   1194
+192.168.75.220/32  link#14            UCS                   en0      !
+192.168.75.255     ff:ff:ff:ff:ff:ff  UHLWbI                en0      !
+224.0.0/4          link#14            UmCS                  en0      !
+224.0.0/4          link#27            UmCSI               utun4       
+mdns.mcast.net     1:0:5e:0:0:fb      UHmLWI                en0       
+255.255.255.255/32 link#14            UCS                   en0      !
+255.255.255.255/32 link#27            UCSI                utun4       
+
+Internet6:
+Destination        Gateway            Flags               Netif Expire
+default            fe80::c00d:f4ff:fe UGcg                  en0       
+default            fe80::%utun0       UGcIg               utun0       
+default            fe80::%utun1       UGcIg               utun1       
+default            fe80::%utun2       UGcIg               utun2       
+default            fe80::%utun3       UGcIg               utun3       
+default            fe80::%utun5       UGcIg               utun5       
+default            fe80::%utun6       UGcIg               utun6       
+localhost          localhost          UHL                   lo0       
+2401:4900:5d82:ef3 link#14            UC                    en0       
+2401:4900:5d82:ef3 c2:d:f4:11:75:30   UHLWIi                en0       
+2401:4900:5d82:ef3 4e:64:bb:2:c9:a4   UHL                   lo0       
+2401:4900:5d82:ef3 4e:64:bb:2:c9:a4   UHL                   lo0       
+2401:4900:5d82:ef3 8a:5e:e9:21:7e:14  UHLWI                 en0       
+fe80::%lo0         rupams-macbook-pro UcI                   lo0       
+rupams-macbook-pro link#1             UHLI                  lo0       
+fe80::%en0         link#14            UCI                   en0       
+rupams-macbook-pro 4e:64:bb:2:c9:a4   UHLI                  lo0       
+oishikis-ipad.loca d2:b1:22:fd:e:58   UHLWI                 en0       
+fe80::1477:f537:5b 8a:5e:e9:21:7e:14  UHLWIi                en0       
+fe80::c00d:f4ff:fe c2:d:f4:11:75:30   UHLWIir               en0       
+fe80::a89c:37ff:fe aa:9c:37:db:17:b3  UHLI                  lo0       
+fe80::a89c:37ff:fe aa:9c:37:db:17:b3  UHLI                  lo0       
+fe80::%utun0       rupams-macbook-pro UcI                 utun0       
+rupams-macbook-pro link#18            UHLI                  lo0       
+fe80::%utun1       rupams-macbook-pro UcI                 utun1       
+rupams-macbook-pro link#19            UHLI                  lo0       
+fe80::%utun2       rupams-macbook-pro UcI                 utun2       
+rupams-macbook-pro link#20            UHLI                  lo0       
+fe80::%utun3       rupams-macbook-pro UcI                 utun3       
+rupams-macbook-pro link#21            UHLI                  lo0       
+fe80::%utun5       rupams-macbook-pro UcI                 utun5       
+rupams-macbook-pro link#23            UHLI                  lo0       
+fe80::%utun6       rupams-macbook-pro UcI                 utun6       
+rupams-macbook-pro link#24            UHLI                  lo0       
+ff00::             localhost          UmCI                  lo0       
+ff00::             link#14            UmCI                  en0       
+ff00::             link#16            UmCI                awdl0       
+ff00::             link#17            UmCI                 llw0       
+ff00::             rupams-macbook-pro UmCI                utun0       
+ff00::             rupams-macbook-pro UmCI                utun1       
+ff00::             rupams-macbook-pro UmCI                utun2       
+ff00::             rupams-macbook-pro UmCI                utun3       
+ff00::             rupams-macbook-pro UmCI                utun5       
+ff00::             rupams-macbook-pro UmCI                utun6       
+ff01::%lo0         localhost          UmCI                  lo0       
+ff01::%en0         link#14            UmCI                  en0       
+ff01::%utun0       rupams-macbook-pro UmCI                utun0       
+ff01::%utun1       rupams-macbook-pro UmCI                utun1       
+ff01::%utun2       rupams-macbook-pro UmCI                utun2       
+ff01::%utun3       rupams-macbook-pro UmCI                utun3       
+ff01::%utun5       rupams-macbook-pro UmCI                utun5       
+ff01::%utun6       rupams-macbook-pro UmCI                utun6       
+ff02::%lo0         localhost          UmCI                  lo0       
+ff02::%en0         link#14            UmCI                  en0       
+ff02::%utun0       rupams-macbook-pro UmCI                utun0       
+ff02::%utun1       rupams-macbook-pro UmCI                utun1       
+ff02::%utun2       rupams-macbook-pro UmCI                utun2       
+ff02::%utun3       rupams-macbook-pro UmCI                utun3       
+ff02::%utun5       rupams-macbook-pro UmCI                utun5       
+ff02::%utun6       rupams-macbook-pro UmCI                utun6       

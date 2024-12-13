@@ -1,0 +1,54 @@
+COMMAND     PID           USER   FD   TYPE             DEVICE SIZE/OFF   NODE NAME
+launchd       1           root   30u  IPv4 0x3b6d09eb3470dac9      0t0    UDP *:138
+launchd       1           root   31u  IPv4 0x55d2c164a52dee11      0t0    UDP *:137
+configd     514           root   14u  IPv6 0x29afe4ee10ac1201      0t0 ICMPV6 *:*
+nesession   550           root   18u  IPv4 0x61305630cc8bc073      0t0    UDP *:*
+airportd    583           root    3u  IPv4 0xe1dd11a3c4acd970      0t0    UDP *:*
+airportd    583           root    9u  IPv6 0xce7dcf3889fd6162      0t0    UDP *:*
+airportd    583           root   10u  IPv4 0x4e4a7673fe78a6e1      0t0    UDP *:*
+airportd    583           root   11u  IPv4 0xc9f02feb81a19d29      0t0    UDP *:*
+airportd    583           root   13u  IPv4 0x3c202a470a6cd11a      0t0    UDP *:*
+airportd    583           root   14u  IPv4 0xb9502ec0e0d6e08f      0t0    UDP *:*
+airportd    583           root   17u  IPv4 0x1764795ff076e8e3      0t0    UDP *:*
+airportd    583           root   20u  IPv4 0x49136a99fa2ce7df      0t0    UDP *:*
+airportd    583           root   21u  IPv4 0xb23569d81483fd9c      0t0    UDP *:*
+airportd    583           root   23u  IPv4 0x54b6e770f10a1b2e      0t0    UDP *:*
+airportd    583           root   24u  IPv4 0x9e40dc19b8c74e38      0t0    UDP *:*
+airportd    583           root   25u  IPv4 0x958b75210fcd39cb      0t0    UDP *:*
+symptomsd   603      _networkd   26u  IPv4 0x1c21551120a14b3e      0t0    UDP *:*
+mDNSRespo   628 _mdnsresponder    6u  IPv4 0xd803943f43fc4e46      0t0    UDP *:5353
+mDNSRespo   628 _mdnsresponder    7u  IPv6 0xe2903b1e061ce068      0t0    UDP *:5353
+wifianaly   730           root    3u  IPv4  0x3f6a75a7fa36bfc      0t0    UDP *:*
+rapportd   1184     rupambarui    8u  IPv4 0x9723d48c6c17a38c      0t0    TCP *:55226 (LISTEN)
+rapportd   1184     rupambarui    9u  IPv6 0x680b010d0dc16067      0t0    TCP *:55226 (LISTEN)
+identitys  1209     rupambarui    8u  IPv6 0x85a6ad8cd4fedee4      0t0    TCP [fe80:17::7608:faa4:4d9f:ee4c]:1024->[fe80:17::4987:cd4c:2c16:c680]:1024 (SYN_SENT)
+identitys  1209     rupambarui   18u  IPv4 0x19262e973d621ff3      0t0    UDP *:*
+identitys  1209     rupambarui   23u  IPv4 0x5a93ce835cd2ddf7      0t0    UDP *:*
+sharingd   1253     rupambarui    4u  IPv4 0xdf7b7e8176311ba6      0t0    UDP *:*
+sharingd   1253     rupambarui   11u  IPv6 0xc6e486e32bdf0b07      0t0    UDP *:56279
+ControlCe  1371     rupambarui    8u  IPv4 0xdf03a596d09a0b26      0t0    TCP *:7000 (LISTEN)
+ControlCe  1371     rupambarui    9u  IPv6 0x533b6bfffe1e6e3e      0t0    TCP *:7000 (LISTEN)
+ControlCe  1371     rupambarui   10u  IPv4 0x6996b0c15c6f0620      0t0    TCP *:5000 (LISTEN)
+ControlCe  1371     rupambarui   11u  IPv6 0xc59d96ecb4e5d78c      0t0    TCP *:5000 (LISTEN)
+Stats      2608     rupambarui   23u  IPv4 0x2b74118cb2b8b822      0t0   ICMP *:*
+Stats      2608     rupambarui   36u  IPv4 0xcdbc75ac3fa44aca      0t0   ICMP *:*
+wifiveloc  6787           root    3u  IPv4 0xdb75c02f186721af      0t0    UDP *:*
+Signal    30454     rupambarui   27u  IPv6 0x77bb15e5c4025f86      0t0    UDP *:*
+Signal    30454     rupambarui   30u  IPv6 0x7956f05229ea4acd      0t0    TCP [2401:4900:5d82:ef3:a11c:ded9:5f41:647c]:55225->[2600:9000:a507:ab6d:4ce3:2f58:25d7:9cbf]:443 (ESTABLISHED)
+adb       47472     rupambarui    8u  IPv4 0xb160d98b23b5b805      0t0    TCP 127.0.0.1:5037 (LISTEN)
+adb       47472     rupambarui    9u  IPv4 0x5bbdf91b1f6b9c34      0t0    UDP *:5353
+adb       47472     rupambarui   10u  IPv6 0x26f30d395d5408ca      0t0    UDP *:5353
+adb       47472     rupambarui   11u  IPv6 0x74f7a5e9304bfec9      0t0    UDP *:5353
+Raycast   48185     rupambarui   29u  IPv4 0x5a5a7c0486ff7055      0t0    TCP 127.0.0.1:7265 (LISTEN)
+NextDNSPr 72815     rupambarui    4u  IPv4 0xe53c34151270dd0e      0t0    UDP *:*
+Code\x20H 79416     rupambarui   95u  IPv4  0x79144826cc161aa      0t0    TCP 192.168.75.220:54047->216.24.57.4:443 (ESTABLISHED)
+Code\x20H 79416     rupambarui  103u  IPv4 0x659e234e94e60f0d      0t0    TCP 192.168.75.220:54049->216.24.57.4:443 (ESTABLISHED)
+java      80341     rupambarui   98u  IPv6 0x9d607c7792126873      0t0    TCP *:54038 (LISTEN)
+java      80417     rupambarui  431u  IPv6 0xd9fc7a445f9ad165      0t0    UDP *:53978
+java      80442     rupambarui  297u  IPv6 0xc27067ca2e036c61      0t0    TCP 127.0.0.1:54102 (LISTEN)
+java      80442     rupambarui  298u  IPv6 0x49ce6e6ccf4bae73      0t0    UDP *:62705
+wifip2pd  89798           root    4u  IPv4 0x802a28ef7a0b9c5d      0t0    UDP *:*
+wifip2pd  89798           root    6u  IPv4 0x479a3fed355226f0      0t0    UDP *:*
+wifip2pd  89798           root    7u  IPv4 0x7b9445868dca8e1e      0t0    UDP *:*
+netbiosd  90136       _netbios    3u  IPv4 0x55d2c164a52dee11      0t0    UDP *:137
+netbiosd  90136       _netbios    4u  IPv4 0x3b6d09eb3470dac9      0t0    UDP *:138

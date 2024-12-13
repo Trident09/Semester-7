@@ -1,0 +1,41 @@
+Name       Mtu   Network       Address            Ipkts Ierrs    Opkts Oerrs  Coll
+lo0        16384 <Link#1>                        538747     0   538747     0     0
+lo0        16384 127           localhost         538747     -   538747     -     -
+lo0        16384 localhost   ::1                 538747     -   538747     -     -
+lo0        16384 rupams-macb fe80:1::1           538747     -   538747     -     -
+gif0*      1280  <Link#2>                             0     0        0     0     0
+stf0*      1280  <Link#3>                             0     0        0     0     0
+anpi0      1500  <Link#4>    12:04:dd:6d:c4:be        0     0        0     0     0
+anpi1      1500  <Link#5>    12:04:dd:6d:c4:bf        0     0        0     0     0
+anpi2      1500  <Link#6>    12:04:dd:6d:c4:c0        0     0        0     0     0
+en4        1500  <Link#7>    12:04:dd:6d:c4:9e        0     0        0     0     0
+en5        1500  <Link#8>    12:04:dd:6d:c4:9f        0     0        0     0     0
+en6        1500  <Link#9>    12:04:dd:6d:c4:a0        0     0        0     0     0
+en1        1500  <Link#10>   36:8a:8e:d9:6e:00        0     0        0     0     0
+en2        1500  <Link#11>   36:8a:8e:d9:6e:04        0     0        0     0     0
+en3        1500  <Link#12>   36:8a:8e:d9:6e:08        0     0        0     0     0
+bridge0    1500  <Link#15>   36:8a:8e:d9:6e:00        0     0        0     0     0
+ap1        1500  <Link#13>   96:db:f9:0e:48:ef        0     0        0     0     0
+en0        1500  <Link#14>   4e:64:bb:02:c9:a4 16372471     0  5444585     0     0
+en0        1500  rupams-macb fe80:e::c9e:a195: 16372471     -  5444585     -     -
+en0        1500  2401:4900:5 2401:4900:5d82:ef 16372471     -  5444585     -     -
+en0        1500  2401:4900:5 2401:4900:5d82:ef 16372471     -  5444585     -     -
+en0        1500  192.168.75    192.168.75.220  16372471     -  5444585     -     -
+awdl0      1500  <Link#16>   aa:9c:37:db:17:b3     8382     0    12349     0     0
+awdl0      1500  fe80::a89c: fe80:10::a89c:37f     8382     -    12349     -     -
+llw0       1500  <Link#17>   aa:9c:37:db:17:b3   850989     0  2512259     0     0
+llw0       1500  fe80::a89c: fe80:11::a89c:37f   850989     -  2512259     -     -
+utun0      1380  <Link#18>                            0     0        3     0     0
+utun0      1380  rupams-macb fe80:12::f023:991        0     -        3     -     -
+utun1      1500  <Link#19>                            0     0        1     0     0
+utun1      1500  rupams-macb fe80:13::9328:4f4        0     -        1     -     -
+utun2      2000  <Link#20>                            0     0        2     0     0
+utun2      2000  rupams-macb fe80:14::e21b:d8e        0     -        2     -     -
+utun3      1000  <Link#21>                            0     0        2     0     0
+utun3      1000  rupams-macb fe80:15::ce81:b1c        0     -        2     -     -
+utun5      1380  <Link#23>                         4054     0     5245     0     0
+utun5      1380  rupams-macb fe80:17::7608:faa     4054     -     5245     -     -
+utun6      1380  <Link#24>                            0     0        4     0     0
+utun6      1380  rupams-macb fe80:18::fc4a:e50        0     -        4     -     -
+utun4      1500  <Link#27>                         6383     0     7532     0     0
+utun4      1500  192.0.2.42/32 192.0.2.42          6383     -     7532     -     -

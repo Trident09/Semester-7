@@ -1,0 +1,338 @@
+Active LOCAL (UNIX) domain sockets
+Address          Type   Recv-Q Send-Q            Inode             Conn             Refs          Nextref Addr
+fe9de9573f8aba5c stream      0      0 c6d169a6025fd92f                0                0                0 /tmp/2f093fe9-a235-5d1c-9a62-3fae2cdf7eb1
+6aa84b57513b1641 stream      0      0 486022f9a5a10822                0                0                0 /tmp/7c3338c5-8eec-50ae-bc4a-1f6969419936
+dbda4d3de6900b37 stream      0      0                0 d67b57aaf6a29df7                0                0 /tmp/logitech_kiros_updater
+d67b57aaf6a29df7 stream      0      0                0 dbda4d3de6900b37                0                0
+f1b2e811147872bb stream      0      0                0 ba65dc3f156e0190                0                0 /var/run/mDNSResponder
+ba65dc3f156e0190 stream      0      0                0 f1b2e811147872bb                0                0
+b5ef9f01ddc6c933 stream      0      0                0 c721b6ea33aefcde                0                0 /var/run/mDNSResponder
+c721b6ea33aefcde stream      0      0                0 b5ef9f01ddc6c933                0                0
+22f35d15da65e6eb stream      0      0                0 edcd8dfe00e3e054                0                0 /var/run/mDNSResponder
+edcd8dfe00e3e054 stream      0      0                0 22f35d15da65e6eb                0                0
+3063598d33adf595 stream      0      0                0 405447c3987740d9                0                0 /var/run/mDNSResponder
+405447c3987740d9 stream      0      0                0 3063598d33adf595                0                0
+d06cee030b06fc12 stream      0      0                0 d7d9e60b8a2a682a                0                0 /var/run/mDNSResponder
+d7d9e60b8a2a682a stream      0      0                0 d06cee030b06fc12                0                0
+e505bcb098ab4832 stream      0      0                0 94b3bcb757ad81c1                0                0 /var/run/mDNSResponder
+94b3bcb757ad81c1 stream      0      0                0 e505bcb098ab4832                0                0
+ab82fe64a1872290 stream      0      0                0  f6f459359205a8a                0                0 /var/run/mDNSResponder
+ed3a1f66eda84492 stream      0      0                0 e14ba6b65e110e88                0                0 /var/run/mDNSResponder
+abf31c92857a15e7 stream      0      0                0 c01f3ba3023dcaf7                0                0 /var/run/mDNSResponder
+e70a1d7745e7aad1 stream      0      0                0 19e483a060de334d                0                0 /var/run/mDNSResponder
+ f6f459359205a8a stream      0      0                0 ab82fe64a1872290                0                0
+19e483a060de334d stream      0      0                0 e70a1d7745e7aad1                0                0
+c01f3ba3023dcaf7 stream      0      0                0 abf31c92857a15e7                0                0
+e14ba6b65e110e88 stream      0      0                0 ed3a1f66eda84492                0                0
+2aabf2c3116258ba stream      0      0                0 6b861c88848eb544                0                0
+6b861c88848eb544 stream      0      0                0 2aabf2c3116258ba                0                0
+bd77e2d0388553c4 stream      0      0                0 df6cb54e2bcc955d                0                0
+df6cb54e2bcc955d stream      0      0                0 bd77e2d0388553c4                0                0
+2e80adc304aab54f stream      0      0                0 e2fd9d74d8988751                0                0
+e2fd9d74d8988751 stream      0      0                0 2e80adc304aab54f                0                0
+69e78c51e76ec7c4 stream      0      0                0 e1423d8ff9101023                0                0
+e1423d8ff9101023 stream      0      0                0 69e78c51e76ec7c4                0                0
+ 88dea4e5e2f37ae stream      0      0                0 a75b8b7d4d3fac24                0                0 /var/run/mDNSResponder
+a75b8b7d4d3fac24 stream      0      0                0  88dea4e5e2f37ae                0                0
+ec19ff5d840f403d stream      0      0                0                0                0                0
+dbd58c880c02ea7e stream      0      0                0 ad554aa41e4ec7cd                0                0 /var/run/mDNSResponder
+ad554aa41e4ec7cd stream      0      0                0 dbd58c880c02ea7e                0                0
+2cff35ad98593b80 stream      0      0                0 55c4f25310c73a00                0                0 /private/var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/lsp-73c0d49a6a616273dbd5a8ca0f3a1cb8.sock
+55c4f25310c73a00 stream      0      0                0 2cff35ad98593b80                0                0
+72dd06462efd6df1 stream      0      0                0                0                0                0
+6c06d2523fc9e826 stream      0      0                0                0                0                0
+a649c05c195bf602 stream      0      0                0 a6e0846015797496                0                0 /private/var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/306a9fe6db86d95dfd267212d5096a63.sock
+a6e0846015797496 stream      0      0                0 a649c05c195bf602                0                0
+e0f74055dd74335e stream      0      0                0 dbedc606b35adcdb                0                0
+dbedc606b35adcdb stream      0      0                0 e0f74055dd74335e                0                0
+c31a725af8b57924 stream      0      0                0 1081cfa8e2ec4827                0                0
+1081cfa8e2ec4827 stream      0      0                0 c31a725af8b57924                0                0
+8d6068717bccd0a3 stream      0      0                0 275f933435ca3c19                0                0
+275f933435ca3c19 stream      0      0                0 8d6068717bccd0a3                0                0
+f80383ec93c0968c stream      0      0                0 d314ba44525effca                0                0 /private/var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/45f0f00660961bbafc60e8762adfa5cc.sock
+d314ba44525effca stream      0      0                0 f80383ec93c0968c                0                0
+ da29d5b89dd55d1 stream      0      0                0 78bc833db7a1e39c                0                0
+78bc833db7a1e39c stream      0      0                0  da29d5b89dd55d1                0                0
+df8ea876312091d7 stream      0      0                0 5d63b90259495d82                0                0
+5d63b90259495d82 stream      0      0                0 df8ea876312091d7                0                0
+34811ffe366dd356 stream      0      0                0 305d15cf509e5aef                0                0
+305d15cf509e5aef stream      0      0                0 34811ffe366dd356                0                0
+dbae355a3049dcef stream      0      0                0 9a32969e50894cc2                0                0
+9a32969e50894cc2 stream      0      0                0 dbae355a3049dcef                0                0
+371bfaf8016de334 stream      0      0 7fb6b60e4594967b                0                0                0 /var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/ssh-askpass-fe946c13-ece5-4530-acbd-f77ce4802620.sock
+bf37d58a79ed7cec stream      0      0                0 4d3c2b5bb06035f2                0                0
+4d3c2b5bb06035f2 stream      0      0                0 bf37d58a79ed7cec                0                0
+3a1425bf43af770e stream      0      0                0  beb16930c7048a0                0                0
+ beb16930c7048a0 stream      0      0                0 3a1425bf43af770e                0                0
+a45b32c668ac3bc9 stream      0      0                0 6bd38b03f8935673                0                0
+6bd38b03f8935673 stream      0      0                0 a45b32c668ac3bc9                0                0
+e946cb1fe0bf79b6 stream      0      0 209f5c39529f8e0f                0                0                0 /private/var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/45f0f00660961bbafc60e8762adfa5cc.sock
+13aae8ebca9981fd stream      0      0                0 e86f919544528f79                0                0
+e86f919544528f79 stream      0      0                0 13aae8ebca9981fd                0                0
+3364ba26dc97f60a stream      0      0                0 748dc7baf2692f70                0                0
+748dc7baf2692f70 stream      0      0                0 3364ba26dc97f60a                0                0
+950b5fd24fcc8d1d stream      0      0                0 42171988f74a6013                0                0
+42171988f74a6013 stream      0      0                0 950b5fd24fcc8d1d                0                0
+ 5b8bc90c728f31f stream      0      0                0 39fa2eb44d669283                0                0
+39fa2eb44d669283 stream      0      0                0  5b8bc90c728f31f                0                0
+af6aa844def0fcfc stream      0      0                0 60b43d4eeb8e4658                0                0
+60b43d4eeb8e4658 stream      0      0                0 af6aa844def0fcfc                0                0
+5fb540a1d774ff6e stream      0      0                0 f2067757d1ca7885                0                0
+f2067757d1ca7885 stream      0      0                0 5fb540a1d774ff6e                0                0
+89c33bd8e72728a2 stream      0      0                0 8202e41f784b2f30                0                0
+8202e41f784b2f30 stream      0      0                0 89c33bd8e72728a2                0                0
+52e4fefbe78c96e1 stream      0      0                0 7387a83885979607                0                0
+7387a83885979607 stream      0      0                0 52e4fefbe78c96e1                0                0
+ f86ef0737bf22e6 stream      0      0                0 803753bb5af5c4df                0                0
+803753bb5af5c4df stream      0      0                0  f86ef0737bf22e6                0                0
+2adaa2fea7bb0d2c stream      0      0                0 4736efa2badf45f5                0                0
+4736efa2badf45f5 stream      0      0                0 2adaa2fea7bb0d2c                0                0
+dd8fe33831b7ad2e stream      0      0                0 4bd723b176992129                0                0
+4bd723b176992129 stream      0      0                0 dd8fe33831b7ad2e                0                0
+ cfa3894d5d42a4b stream      0      0                0 eff40aade7ad2aa7                0                0
+eff40aade7ad2aa7 stream      0      0                0  cfa3894d5d42a4b                0                0
+edf6fc162def9a1a stream      0      0                0 cdc5bebb507e1d93                0                0 /var/run/mDNSResponder
+cdc5bebb507e1d93 stream      0      0                0 edf6fc162def9a1a                0                0
+ff2539df530fe9e9 stream      0      0  bc249907883862c                0                0                0 /var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/vscode-git-9a6f61714b.sock
+ c4325cedab080ad stream      0      0                0 47665099c5c76f5b                0                0
+47665099c5c76f5b stream      0      0                0  c4325cedab080ad                0                0
+af238121ae4af326 stream      0      0                0 df3cc982e24d0930                0                0
+df3cc982e24d0930 stream      0      0                0 af238121ae4af326                0                0
+ 72ba879aced680a stream      0      0                0 23613075e7920023                0                0
+23613075e7920023 stream      0      0                0  72ba879aced680a                0                0
+56e0314d3a642163 stream      0      0                0 28554c3b9fc532a5                0                0
+28554c3b9fc532a5 stream      0      0                0 56e0314d3a642163                0                0
+be414d953f36f83b stream      0      0                0 1fc34ae83ea9c8e4                0                0 /var/run/mDNSResponder
+1fc34ae83ea9c8e4 stream      0      0                0 be414d953f36f83b                0                0
+fa21fec45ed8b767 stream      0      0 276163e24146bc1b                0                0                0 /Users/rupambarui/Library/Application Support/Code/1.96-main.sock
+ 7b846d9f5adfc7b stream      0      0                0 2267347d250c5457                0                0
+2267347d250c5457 stream      0      0                0  7b846d9f5adfc7b                0                0
+5ab3456211882f17 stream      0      0                0 e99130ed98555dee                0                0 /var/run/mDNSResponder
+e99130ed98555dee stream      0      0                0 5ab3456211882f17                0                0
+60c4d662dd8f1322 stream      0      0                0                0                0                0
+ 1564449208dcc53 stream      0      0                0 3af2c08f90267b6e                0                0 /var/run/mDNSResponder
+3af2c08f90267b6e stream      0      0                0  1564449208dcc53                0                0
+dbf1e3c91ee20f9e stream      0      0 690b6fd2509f0aac                0                0                0 /var/folders/bb/j81rwdcd275b7yswwpgwnh740000gn/T/scoped_dirsgqNIG/SingletonSocket
+7c9a889243487e4b stream      0      0                0                0                0                0
+64cdc19e0c08f4dc stream      0      0                0 a36762edd9823ae5                0                0 /var/run/mDNSResponder
+a36762edd9823ae5 stream      0      0                0 64cdc19e0c08f4dc                0                0
+2b15043269e6f623 stream      0      0                0 77ca9d23096fb895                0                0 /var/run/mDNSResponder
+77ca9d23096fb895 stream      0      0                0 2b15043269e6f623                0                0
+8a292f15202ff8cd stream      0      0 590347617c1e7377                0                0                0 /tmp/logitech_kiros_agent-16d7a98026088bbfd1f6a6e5f2200808
+d12c239e38911e73 stream      0      0                0 86dee088d83ad10e                0                0 /var/run/mDNSResponder
+86dee088d83ad10e stream      0      0                0 d12c239e38911e73                0                0
+c5a176397d0af43e stream      0      0 7c0379f6657c5168                0                0                0 /tmp/logitech_kiros_updater
+bd26e69936a7bf5b stream      0      0                0 574fa6a90e9ff1f3                0                0 /var/run/usbmuxd
+574fa6a90e9ff1f3 stream      0      0                0 bd26e69936a7bf5b                0                0
+25671b3179302d42 stream      0      0                0 ffcc63970315548f                0                0 /var/run/mDNSResponder
+ffcc63970315548f stream      0      0                0 25671b3179302d42                0                0
+7d12f8fcdbb8da08 stream      0      0                0 d8d225372dd67ed3                0                0 /var/run/usbmuxd
+d8d225372dd67ed3 stream      0      0                0 7d12f8fcdbb8da08                0                0
+b1f529a9391c11a6 stream      0      0                0 bab6044848e9e70b                0                0 /var/run/mDNSResponder
+bab6044848e9e70b stream      0      0                0 b1f529a9391c11a6                0                0
+18e1f475278e21ad stream      0      0                0 cbecae027ae8e1ae                0                0 /var/run/mDNSResponder
+cbecae027ae8e1ae stream      0      0                0 18e1f475278e21ad                0                0
+24fd0b73379bc445 stream      0      0                0 a03d90e8d4354170                0                0 /var/run/mDNSResponder
+a03d90e8d4354170 stream      0      0                0 24fd0b73379bc445                0                0
+e27d13d9da7be879 stream      0      0                0 e26e9061ee15132d                0                0 /var/run/mDNSResponder
+e26e9061ee15132d stream      0      0                0 e27d13d9da7be879                0                0
+125caf57a2c1f2a8 stream      0      0                0 d201f5fe212ee3e3                0                0 /var/run/mDNSResponder
+d201f5fe212ee3e3 stream      0      0                0 125caf57a2c1f2a8                0                0
+b37d20807a4c5fa2 stream      0      0                0 1c5938f3fce9ced5                0                0 /var/run/mDNSResponder
+1c5938f3fce9ced5 stream      0      0                0 b37d20807a4c5fa2                0                0
+ d05155e40b8932e stream      0      0                0 a86dc71b381b2ad7                0                0 /var/run/mDNSResponder
+a86dc71b381b2ad7 stream      0      0                0  d05155e40b8932e                0                0
+a11b8e2bcecb37f4 stream      0      0                0 862b2219889fb09e                0                0 /var/run/mDNSResponder
+862b2219889fb09e stream      0      0                0 a11b8e2bcecb37f4                0                0
+de38baace5a9a445 stream      0      0                0 29072f7a1fd5c74d                0                0 /var/run/mDNSResponder
+29072f7a1fd5c74d stream      0      0                0 de38baace5a9a445                0                0
+bd964bfb2648d18c stream      0      0                0 8837325580f8d0cb                0                0 /var/run/mDNSResponder
+8837325580f8d0cb stream      0      0                0 bd964bfb2648d18c                0                0
+40c971d776036c6b stream      0      0                0 8d1eb6b704748175                0                0 /var/run/usbmuxd
+8d1eb6b704748175 stream      0      0                0 40c971d776036c6b                0                0
+a2e1f50e6fbed21c stream      0      0                0 a9f45f1b23701bcd                0                0 /var/run/usbmuxd
+a9f45f1b23701bcd stream      0      0                0 a2e1f50e6fbed21c                0                0
+b2dfb7e94caa3a65 stream      0      0                0 6dd47ee6f4c1ea07                0                0 /var/run/mDNSResponder
+6dd47ee6f4c1ea07 stream      0      0                0 b2dfb7e94caa3a65                0                0
+b2f49c6cb00aeb00 stream      0      0                0 ebdc931af31ed548                0                0 /var/run/mDNSResponder
+ebdc931af31ed548 stream      0      0                0 b2f49c6cb00aeb00                0                0
+ee91ae6927b03b9d stream      0      0                0 146a7b1bf4935ed9                0                0 /var/run/usbmuxd
+146a7b1bf4935ed9 stream      0      0                0 ee91ae6927b03b9d                0                0
+6ebfce275d42b840 stream      0      0                0  c6146dc75973a54                0                0 /var/run/usbmuxd
+ c6146dc75973a54 stream      0      0                0 6ebfce275d42b840                0                0
+5bbc372ba612e8cd stream      0      0                0 2c91b11936fb1d5e                0                0 /var/run/mDNSResponder
+2c91b11936fb1d5e stream      0      0                0 5bbc372ba612e8cd                0                0
+82bf7f555399e67f stream      0      0                0 a7d84b28d4583982                0                0 /var/run/mDNSResponder
+a7d84b28d4583982 stream      0      0                0 82bf7f555399e67f                0                0
+4065131850fa8880 stream      0      0                0 5cbc0bf5f64a4ecd                0                0 /var/run/mDNSResponder
+5cbc0bf5f64a4ecd stream      0      0                0 4065131850fa8880                0                0
+411d322f3dd77ab9 stream      0      0                0  bb0b554b7b1b81c                0                0 /var/run/mDNSResponder
+ bb0b554b7b1b81c stream      0      0                0 411d322f3dd77ab9                0                0
+2fafe954c4851974 stream      0      0                0 e293602b5d66043e                0                0 /var/run/mDNSResponder
+e293602b5d66043e stream      0      0                0 2fafe954c4851974                0                0
+73509dea4c115133 stream      0      0                0  ff572262895345a                0                0 /var/run/mDNSResponder
+ ff572262895345a stream      0      0                0 73509dea4c115133                0                0
+1644759e5b351ce3 stream      0      0  a5081cad16b30f2                0                0                0 /var/run/filesystemui.socket
+d0b9f4ae52b04cc3 stream      0      0 e910f1476cd64b74                0                0                0 /private/tmp/com.apple.launchd.KbmkuFPJnC/Listeners
+8fec869adaa786ea stream      0      0                0 f8e07098e20aaae4                0                0 /var/run/mDNSResponder
+f8e07098e20aaae4 stream      0      0                0 8fec869adaa786ea                0                0
+650654affeb6d8ef stream      0      0                0 dd1f1e8264f47a34                0                0
+dd1f1e8264f47a34 stream      0      0                0 650654affeb6d8ef                0                0
+a8fcef5a5ac80d28 stream      0      0 b98b30b1bb64cba3                0                0                0 /var/run/pppconfd
+e6a16979d0e4e8cd stream      0      0 3b54db7e77c2e3db                0                0                0 /var/run/usbmuxd
+851d61b63bc8bc44 stream      0      0 b3081ff65f42feae                0                0                0 /var/rpc/ncalrpc/srvsvc
+21069641aede25f1 stream      0      0 562d53878af3db3e                0                0                0 /var/rpc/ncacn_np/srvsvc
+cfb0ba787a42861c stream      0      0 120f28eca325ebfe                0                0                0 /var/rpc/ncalrpc/wkssvc
+86c57aec2d6ce5b0 stream      0      0 42eb8090c18d5702                0                0                0 /var/rpc/ncacn_np/wkssvc
+22a1cbea33db0c17 stream      0      0 e5da618e0d594149                0                0                0 /var/rpc/ncacn_np/mdssvc
+20bad3b1123a403a stream      0      0 78aad17018ce5738                0                0                0 /var/rpc/ncalrpc/lsarpc
+7bdbfa0bb7d817e0 stream      0      0 bde8c10fcaf93f31                0                0                0 /var/rpc/ncacn_np/lsarpc
+f2238a677af7c579 stream      0      0 bbd400037ae85587                0                0                0 /var/run/mDNSResponder
+ 27eacc951c3d2e8 stream      0      0 272dd6bc64cb80be                0                0                0 /var/run/systemkeychaincheck.socket
+5e07b884adfa8988 stream      0      0 ff745607a28dc50f                0                0                0 /private/var/run/.sim_diagnosticd_socket
+fb372a31a8fe4e06 stream      0      0  85aa001e6bc50bc                0                0                0 /var/run/portmap.socket
+b28812b8b4bda2eb stream      0      0 724b8147ec89e31b                0                0                0 /var/run/vpncontrol.sock
+c05322b783b0db64 stream      0      0 bd45485e0ea4cf98                0                0                0 /var/rpc/ncalrpc/NETLOGON
+21e6ade70b9af386 stream      0      0 6c0edbd494faf3a1                0                0                0 /private/var/run/cupsd
+unexpected kind 334 which 0x14e
+737c3853e856c562 dgram       0      0                0 f3cbf0052102791b                0 db0065ae9f128a8d
+db0065ae9f128a8d dgram       0      0                0 f3cbf0052102791b                0 4df86d3fcbee99de
+4df86d3fcbee99de dgram       0      0                0 f3cbf0052102791b                0 a10524b8255d664e
+a10524b8255d664e dgram       0      0                0 f3cbf0052102791b                0 c23424aecb8edc7b
+c23424aecb8edc7b dgram       0      0                0 f3cbf0052102791b                0 3a76ca7e2e554dcc
+3a76ca7e2e554dcc dgram       0      0                0 f3cbf0052102791b                0 4c11d9cf4c3f0c81
+4c11d9cf4c3f0c81 dgram       0      0                0 f3cbf0052102791b                0 3a34042accf0bcf9
+3a34042accf0bcf9 dgram       0      0                0 f3cbf0052102791b                0 15428c776a286d46
+15428c776a286d46 dgram       0      0                0 f3cbf0052102791b                0 93d816fe6003718d
+93d816fe6003718d dgram       0      0                0 f3cbf0052102791b                0  1f778d087f4b164
+ 1f778d087f4b164 dgram       0      0                0 f3cbf0052102791b                0 4be2cdb259af954b
+4be2cdb259af954b dgram       0      0                0 f3cbf0052102791b                0 519dd253c49a4879
+519dd253c49a4879 dgram       0      0                0 f3cbf0052102791b                0 84ff3f47b76ca02b
+84ff3f47b76ca02b dgram       0      0                0 f3cbf0052102791b                0 cf12e5887e331fa7
+cf12e5887e331fa7 dgram       0      0                0 f3cbf0052102791b                0 b826e930ba0d1309
+b826e930ba0d1309 dgram       0      0                0 f3cbf0052102791b                0 e482c22f34cd0d6f
+e482c22f34cd0d6f dgram       0      0                0 f3cbf0052102791b                0   2d567fa3b1bc1d
+  2d567fa3b1bc1d dgram       0      0                0 f3cbf0052102791b                0 cf867a9cee4a3ffd
+cf867a9cee4a3ffd dgram       0      0                0 f3cbf0052102791b                0 896d39f49e938575
+896d39f49e938575 dgram       0      0                0 f3cbf0052102791b                0 21afda50a07e0d31
+21afda50a07e0d31 dgram       0      0                0 f3cbf0052102791b                0 390240188c0a7ce9
+390240188c0a7ce9 dgram       0      0                0 f3cbf0052102791b                0 9d05383260317cb0
+9d05383260317cb0 dgram       0      0                0 f3cbf0052102791b                0 6633a5da4566d7f2
+6633a5da4566d7f2 dgram       0      0                0 f3cbf0052102791b                0 6e8be793fec4bd5f
+6e8be793fec4bd5f dgram       0      0                0 f3cbf0052102791b                0 e8baa86299e72945
+e8baa86299e72945 dgram       0      0                0 f3cbf0052102791b                0 5c599949f2416921
+58ca2e19ac151872 dgram       0      0                0 53a988c6c3b1abf3 53a988c6c3b1abf3                0
+53a988c6c3b1abf3 dgram       0      0                0 58ca2e19ac151872 58ca2e19ac151872                0
+5c599949f2416921 dgram       0      0                0 f3cbf0052102791b                0 ef180c02de53fd43
+ef180c02de53fd43 dgram       0      0                0 f3cbf0052102791b                0 ee7f93992d335a60
+ee7f93992d335a60 dgram       0      0                0 f3cbf0052102791b                0 14628383ef504d76
+14628383ef504d76 dgram       0      0                0 f3cbf0052102791b                0 7146468a5dc050d7
+7146468a5dc050d7 dgram       0      0                0 f3cbf0052102791b                0 fd1e4fb90f12a9c9
+fd1e4fb90f12a9c9 dgram       0      0                0 f3cbf0052102791b                0 b6203788989dc139
+b6203788989dc139 dgram       0      0                0 f3cbf0052102791b                0 96831df33de53fc8
+96831df33de53fc8 dgram       0      0                0 f3cbf0052102791b                0 7d6a283fec254b97
+7d6a283fec254b97 dgram       0      0                0 f3cbf0052102791b                0 a00a9c533e9c2078
+a00a9c533e9c2078 dgram       0      0                0 f3cbf0052102791b                0 725587451466de1c
+725587451466de1c dgram       0      0                0 f3cbf0052102791b                0 33ce71e851fe40b8
+60fd76d4b729b603 dgram       0      0                0 72b457957610074d 72b457957610074d                0
+72b457957610074d dgram       0      0                0 60fd76d4b729b603 60fd76d4b729b603                0
+33ce71e851fe40b8 dgram       0      0                0 f3cbf0052102791b                0 5ef4e20e583acb4b
+5ef4e20e583acb4b dgram       0      0                0 f3cbf0052102791b                0 7640c2229755a594
+7640c2229755a594 dgram       0      0                0 f3cbf0052102791b                0 d387e92154fba4bf
+d387e92154fba4bf dgram       0      0                0 f3cbf0052102791b                0 6195967352d3ab14
+6195967352d3ab14 dgram       0      0                0 f3cbf0052102791b                0 3fb2e6c9d3e1f4fc
+3fb2e6c9d3e1f4fc dgram       0      0                0 f3cbf0052102791b                0  a27e25ca8aefdb6
+ a27e25ca8aefdb6 dgram       0      0                0 f3cbf0052102791b                0 4d0190b813675a4b
+4d0190b813675a4b dgram       0      0                0 f3cbf0052102791b                0 2307be21b76166e0
+2307be21b76166e0 dgram       0      0                0 f3cbf0052102791b                0 ac4fbdb531dddbcc
+ac4fbdb531dddbcc dgram       0      0                0 f3cbf0052102791b                0 e31f9e696b9191f8
+bb9e22331c47a486 dgram       0      0                0 f78ba3fd27c33198 f78ba3fd27c33198                0
+f78ba3fd27c33198 dgram       0      0                0 bb9e22331c47a486 bb9e22331c47a486                0
+e31f9e696b9191f8 dgram       0      0                0 f3cbf0052102791b                0 5b28a88432a6a392
+5b28a88432a6a392 dgram       0      0                0 f3cbf0052102791b                0 d2de4d5198e15141
+d2de4d5198e15141 dgram       0      0                0 f3cbf0052102791b                0  1409d48419ad007
+f1ab766ef96a9171 dgram       0      0                0  6958675977eff8c  6958675977eff8c                0
+ 6958675977eff8c dgram       0      0                0 f1ab766ef96a9171 f1ab766ef96a9171                0
+ 1409d48419ad007 dgram       0      0                0 f3cbf0052102791b                0 8d5f26a8826b64ae
+8d5f26a8826b64ae dgram       0      0                0 f3cbf0052102791b                0 1b997accc6db0528
+1b997accc6db0528 dgram       0      0                0 f3cbf0052102791b                0 506a8cce1175afa2
+ f04fcb070bb64cf dgram       0      0                0 d437b01d39d0a827 d437b01d39d0a827                0
+d437b01d39d0a827 dgram       0      0                0  f04fcb070bb64cf  f04fcb070bb64cf                0
+506a8cce1175afa2 dgram       0      0                0 f3cbf0052102791b                0 6684408c705aa046
+6684408c705aa046 dgram       0      0                0 f3cbf0052102791b                0 447f879746a91dff
+447f879746a91dff dgram       0      0                0 f3cbf0052102791b                0 cdc9b7bff58cf606
+cdc9b7bff58cf606 dgram       0      0                0 f3cbf0052102791b                0 77a95d95568d0900
+77a95d95568d0900 dgram       0      0                0 f3cbf0052102791b                0 ad0cba6512043723
+9c7499a3b7a6bf51 dgram       0      0                0 9c8d3090dac2856c 9c8d3090dac2856c                0
+9c8d3090dac2856c dgram       0      0                0 9c7499a3b7a6bf51 9c7499a3b7a6bf51                0
+ad0cba6512043723 dgram       0      0                0 f3cbf0052102791b                0 5cfe57d3ce36e402
+5cfe57d3ce36e402 dgram       0      0                0 f3cbf0052102791b                0 b90a0232701930b7
+b90a0232701930b7 dgram       0      0                0 f3cbf0052102791b                0 b4426315ef6ae684
+b4426315ef6ae684 dgram       0      0                0 f3cbf0052102791b                0 69edccff75e1241f
+69edccff75e1241f dgram       0      0                0 f3cbf0052102791b                0 bef5bd36c7c800de
+4fedb3457dd38a54 dgram       0      0                0 51ac1b256715dec2 51ac1b256715dec2                0
+51ac1b256715dec2 dgram       0      0                0 4fedb3457dd38a54 4fedb3457dd38a54                0
+bef5bd36c7c800de dgram       0      0                0 f3cbf0052102791b                0 6968c36338f289b7
+6968c36338f289b7 dgram       0      0                0 f3cbf0052102791b                0 72bea3bf2894576f
+72bea3bf2894576f dgram       0      0                0 f3cbf0052102791b                0 531fb463c6083f53
+531fb463c6083f53 dgram       0      0                0 f3cbf0052102791b                0 f4c2bf234010523d
+f4c2bf234010523d dgram       0      0                0 f3cbf0052102791b                0 263da3d5918090ce
+263da3d5918090ce dgram       0      0                0 f3cbf0052102791b                0 ae5edd19457eec94
+ae5edd19457eec94 dgram       0      0                0 f3cbf0052102791b                0 385b44f444f981d3
+aec57983520ee89c dgram       0      0                0 25e6398c58741e40 25e6398c58741e40                0
+25e6398c58741e40 dgram       0      0                0 aec57983520ee89c aec57983520ee89c                0
+385b44f444f981d3 dgram       0      0                0 f3cbf0052102791b                0 f8a80c7897390fe3
+1821e79c502d093f dgram       0      0                0 66d2a6c6f76cbfc4 66d2a6c6f76cbfc4                0
+66d2a6c6f76cbfc4 dgram       0      0                0 1821e79c502d093f 1821e79c502d093f                0
+f8a80c7897390fe3 dgram       0      0                0 f3cbf0052102791b                0  32c824e6ec93991
+adfff884b9783966 dgram       0      0                0 fa8601994248cb5f fa8601994248cb5f                0
+fa8601994248cb5f dgram       0      0                0 adfff884b9783966 adfff884b9783966                0
+ 32c824e6ec93991 dgram       0      0                0 f3cbf0052102791b                0 2e2af64b0bc68a5e
+2e2af64b0bc68a5e dgram       0      0                0 f3cbf0052102791b                0 16d8e99e96334da5
+16d8e99e96334da5 dgram       0      0                0 f3cbf0052102791b                0 258eb174835554fc
+258eb174835554fc dgram       0      0                0 f3cbf0052102791b                0 94a5729f81ea5566
+94a5729f81ea5566 dgram       0      0                0 f3cbf0052102791b                0 cc9064179917b6e5
+cc9064179917b6e5 dgram       0      0                0 f3cbf0052102791b                0 5ab0179059f84b22
+5ab0179059f84b22 dgram       0      0                0 f3cbf0052102791b                0 a06c663b3bb6f565
+a06c663b3bb6f565 dgram       0      0                0 f3cbf0052102791b                0 286ed14206612af4
+286ed14206612af4 dgram       0      0                0 f3cbf0052102791b                0 ae2ecfb0b925c497
+ae2ecfb0b925c497 dgram       0      0                0 f3cbf0052102791b                0 b380c98cfa740283
+b380c98cfa740283 dgram       0      0                0 f3cbf0052102791b                0 943cdbb81609eb7a
+943cdbb81609eb7a dgram       0      0                0 f3cbf0052102791b                0 60b31f68a21611c8
+60b31f68a21611c8 dgram       0      0                0 f3cbf0052102791b                0 8127eb3894886b76
+8127eb3894886b76 dgram       0      0                0 f3cbf0052102791b                0 94358d459cc9194d
+94358d459cc9194d dgram       0      0                0 f3cbf0052102791b                0 44623769e21ca182
+44623769e21ca182 dgram       0      0                0 f3cbf0052102791b                0 d303883aab965f90
+d303883aab965f90 dgram       0      0                0 f3cbf0052102791b                0 574fb5cf35ce533c
+574fb5cf35ce533c dgram       0      0                0 f3cbf0052102791b                0 cef4387183751ef4
+cef4387183751ef4 dgram       0      0                0 f3cbf0052102791b                0 2770f88da7365baf
+2770f88da7365baf dgram       0      0                0 f3cbf0052102791b                0 796cddd8d4262ff4
+796cddd8d4262ff4 dgram       0      0                0 f3cbf0052102791b                0 703b7e9f012e8b4f
+703b7e9f012e8b4f dgram       0      0                0 f3cbf0052102791b                0  5a368c7bb31eb30
+ 5a368c7bb31eb30 dgram       0      0                0 f3cbf0052102791b                0 3e9d2b67cf123d69
+3e9d2b67cf123d69 dgram       0      0                0 f3cbf0052102791b                0 d52837c719553935
+d52837c719553935 dgram       0      0                0 f3cbf0052102791b                0 89a4ee4e34b3b792
+bdca3b488a053f96 dgram       0      0                0 30bdbcb3f82fd69e 30bdbcb3f82fd69e                0
+30bdbcb3f82fd69e dgram       0      0                0 bdca3b488a053f96 bdca3b488a053f96                0
+89a4ee4e34b3b792 dgram       0      0                0 f3cbf0052102791b                0 c15fb29a96bb2781
+c15fb29a96bb2781 dgram       0      0                0 f3cbf0052102791b                0 6c9d294388836f98
+6c9d294388836f98 dgram       0      0                0 f3cbf0052102791b                0 ed39a66bc4baec7b
+ed39a66bc4baec7b dgram       0      0                0 f3cbf0052102791b                0 746bbfa7962084f8
+746bbfa7962084f8 dgram       0      0                0 f3cbf0052102791b                0 a984be406615cf52
+a984be406615cf52 dgram       0      0                0 f3cbf0052102791b                0 2746b82c4201b678
+2746b82c4201b678 dgram       0      0                0 f3cbf0052102791b                0 f9855e350321ef83
+f9855e350321ef83 dgram       0      0                0 f3cbf0052102791b                0 7fd5e9ea16a180d8
+1bf9e6f4ea8541a0 dgram       0      0                0 64355b67cd61e343 64355b67cd61e343                0
+64355b67cd61e343 dgram       0      0                0 1bf9e6f4ea8541a0 1bf9e6f4ea8541a0                0
+5cc8771df9abd959 dgram       0      0                0  b1c916aace41080  b1c916aace41080                0
+ b1c916aace41080 dgram       0      0                0 5cc8771df9abd959 5cc8771df9abd959                0
+7fd5e9ea16a180d8 dgram       0      0                0 f3cbf0052102791b                0 d9bdb8b46b62a1ee
+5bff236403ae8ef9 dgram       0      0                0 1ed8606ccc4d57a0 1ed8606ccc4d57a0                0
+1ed8606ccc4d57a0 dgram       0      0                0 5bff236403ae8ef9 5bff236403ae8ef9                0
+d9bdb8b46b62a1ee dgram       0      0                0 f3cbf0052102791b                0 3b9b7135478015e0
+3b9b7135478015e0 dgram       0      0                0 f3cbf0052102791b                0 58dc201d6c218bdf
+58dc201d6c218bdf dgram       0      0                0 f3cbf0052102791b                0 ebe82ab8a92b6320
+ebe82ab8a92b6320 dgram       0      0                0 f3cbf0052102791b                0 1a45850effc2aaac
+1a45850effc2aaac dgram       0      0                0 f3cbf0052102791b                0                0
+f3cbf0052102791b dgram       0      0 b0404410b931525f                0 737c3853e856c562                0 /private//var/run/syslog
+unexpected kind 334 which 0x14e

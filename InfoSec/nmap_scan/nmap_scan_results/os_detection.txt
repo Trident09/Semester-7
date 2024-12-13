@@ -1,0 +1,15 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2024-12-13 09:50 IST
+Nmap scan report for 192.168.1.19
+Host is up (0.00016s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+Device type: general purpose
+Running: Apple macOS 12.X
+OS CPE: cpe:/o:apple:mac_os_x:12
+OS details: Apple macOS 12 (Monterey) (Darwin 21.1.0 - 21.6.0)
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.42 seconds
